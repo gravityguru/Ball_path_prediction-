@@ -1,4 +1,4 @@
-# Ball_path_prediction-
+# Ball_path_prediction
 Ball_path_prediction  is an academic project carried out using Kalman Prediction Alogorithm.
 Team Members:
 
